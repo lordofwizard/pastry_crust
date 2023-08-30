@@ -1,4 +1,5 @@
 # RustySweet Paste - Documentation
+![Image](Pastry_crust.png)
 
 RustySweet Paste is a minimal pastebin-type application inspired by Rust's sweetness, allowing users to quickly share code snippets and text content.
 
