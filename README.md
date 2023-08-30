@@ -1,3 +1,4 @@
+
 # RustySweet Paste - Documentation
 ![Image](Pastry_crust.png)
 
@@ -13,6 +14,7 @@ RustySweet Paste is a minimal pastebin-type application inspired by Rust's sweet
   - [Accessing the Paste Webpage](#accessing-the-paste-webpage)
   - [Submitting a Paste](#submitting-a-paste)
 - [Contributing](#contributing)
+- [Used Technologies and Dependencies](#used-technologies-and-dependencies)
 - [License](#license)
 
 ## Getting Started
@@ -80,9 +82,16 @@ We welcome contributions! If you'd like to contribute to the project, please fol
 4. Push your changes to your forked repository.
 5. Create a pull request.
 
+## Used Technologies and Dependencies
+
+This project is built using the [Rust programming language](https://www.rust-lang.org/). It utilizes the following Rust crates:
+- [warp](https://crates.io/crates/warp)
+- [sqlite](https://crates.io/crates/sqlite)
+
+The project also incorporates [Tailwind CSS](https://tailwindcss.com/) for styling.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
