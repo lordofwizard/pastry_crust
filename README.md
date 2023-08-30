@@ -29,13 +29,13 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/lordofwizard/pastry_crust.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd your-repo
+   cd pastry_crust
    ```
 
 3. Build the project:
