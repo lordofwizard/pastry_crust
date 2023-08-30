@@ -85,8 +85,11 @@ We welcome contributions! If you'd like to contribute to the project, please fol
 ## Used Technologies and Dependencies
 
 This project is built using the [Rust programming language](https://www.rust-lang.org/). It utilizes the following Rust crates:
-- [warp](https://crates.io/crates/warp)
-- [sqlite](https://crates.io/crates/sqlite)
+- [actix-web](https://crates.io/crates/actix-web) 
+- [rusqlite](https://crates.io/crates/rusqlite)
+- [rand](https://crates.io/crates/rand)
+- [actix-files](https://crates.io/crates/actix-files)
+- [serde](https://crates.io/crates/serde)
 
 The project also incorporates [Tailwind CSS](https://tailwindcss.com/) for styling.
 
