@@ -1,5 +1,5 @@
 
-# RustySweet Paste - Documentation
+# Pastry_Crust- Documentation
 ![Image](Pastry_crust.png)
 
 Pastry_crust is a minimal pastebin-type application inspired by Rust's sweetness, allowing users to quickly share code snippets and text content.
@@ -64,7 +64,7 @@ Open your web browser and navigate to:
 http://localhost:8080
 ```
 
-You will be greeted with the RustySweet Paste webpage.
+You will be greeted with the Pastry_Crust webpage.
 
 ### Submitting a Paste
 
